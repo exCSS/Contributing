@@ -2,7 +2,7 @@
 
 Example:
 
-´´´
+```php
 var x = y;
 if ( x == y )
 {
@@ -22,4 +22,4 @@ class ExampleClass ()
 {
 
 }
-´´´
+```

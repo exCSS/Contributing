@@ -2,7 +2,7 @@
 
 Example:
 
-ˋˋˋ
+´´´
 var x = y;
 if ( x == y )
 {
@@ -22,4 +22,4 @@ class ExampleClass ()
 {
 
 }
-ˋˋˋ
+´´´
